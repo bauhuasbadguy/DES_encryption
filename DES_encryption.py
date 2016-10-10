@@ -3,6 +3,10 @@
 #with how stuff is split into blocks but I'm only interested in the encryption
 #algorithm so I'm not going to fix it
 
+#Sources:-
+#https://en.wikipedia.org/wiki/Data_Encryption_Standard
+#https://en.wikipedia.org/wiki/DES_supplementary_material
+
 #Convert a number to a binary string of lenth pad_val
 def pad_number(number, pad_val):
 
