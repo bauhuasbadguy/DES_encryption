@@ -306,8 +306,6 @@ def DES_S_boxes(s_input, box_no):
     [2, 1, 14, 7, 4, 10, 8, 13, 15, 12, 9, 0, 3, 5, 6, 11]))
 
 
-
-
     S_result = S[box_no][int(s_input[0] + s_input[-1], 2)][int(s_input[1:5], 2)]
 
     return pad_number(S_result, 4)
