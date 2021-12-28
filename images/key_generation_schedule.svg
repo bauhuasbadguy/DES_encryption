@@ -12,7 +12,7 @@
    viewBox="0 0 200 231"
    version="1.1"
    id="svg1496"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="key_generation_schedule.svg"
    inkscape:export-filename="/home/stuart/Documents/encrytion_stuff/DES_encryption/key_generation_schedule.png"
    inkscape:export-xdpi="96"
@@ -222,9 +222,9 @@
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
@@ -235,7 +235,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -243,6 +243,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linejoin:round"
+       id="rect1950"
+       width="195.64987"
+       height="225.15126"
+       x="2.1424956"
+       y="0.9418087" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"

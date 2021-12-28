@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/stuart/Documents/encrytion_stuff/DES_encryption/F_block.png"
+   inkscape:export-filename="/home/stuart/Documents/encrytion_stuff/DES_encryption/images/F_block.png"
    sodipodi:docname="F_block.svg"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    id="svg869"
    version="1.1"
    viewBox="0 0 212 175"
@@ -109,16 +109,16 @@
   <sodipodi:namedview
      inkscape:window-maximized="1"
      inkscape:window-y="27"
-     inkscape:window-x="67"
-     inkscape:window-height="1025"
-     inkscape:window-width="1853"
+     inkscape:window-x="72"
+     inkscape:window-height="1016"
+     inkscape:window-width="1848"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="481.47487"
-     inkscape:cx="138.05033"
-     inkscape:zoom="0.49497475"
+     inkscape:cy="301.0969"
+     inkscape:cx="188.73959"
+     inkscape:zoom="0.7"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -141,6 +141,13 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.993205;stroke-linejoin:round"
+       id="rect2881"
+       width="208.00362"
+       height="167.48164"
+       x="1.3816755"
+       y="2.9084394" />
     <g
        transform="translate(-52.521289,-133.74287)"
        id="g3952">
